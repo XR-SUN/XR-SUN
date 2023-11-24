@@ -31,15 +31,21 @@
     margin-top:20px;
 }
 
-.btn{
+.reveal-btn{
     background-color: grey;
     color:black;
     font-size:1.3rem;
+    text-align:center
 }
 
-.btn:active{
+.reveal-btn:active{
     background-color: yellowgreen;
 }
 
+.hidden-content{
+    display:none;
+}
 
-
+.hidden-content .reveal-btn{
+    display:block;
+}
