@@ -13,7 +13,7 @@
     display:flex;
     justify-content: space-around;
     align-items: center;
-    font-family:League Spartan;
+    
 }
 
 .main-content{
@@ -29,7 +29,7 @@
     font-size: 1.6rem;
     color:green;
     text-transform: uppercase;
-    margin-top:20px;
+    margin-top:5px;
 }
 
 .reveal-btn{
@@ -51,4 +51,5 @@
     display:block;
     background-color: forestgreen;
     color:white;
+    margin:25px;
 }
